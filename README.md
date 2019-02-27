@@ -1,4 +1,4 @@
-# About BrineK
+# About BrineK :
 
 ## Education
 **MiraCosta College** AA, Liberal Arts - December 2019 (Expected)
