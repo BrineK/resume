@@ -11,15 +11,21 @@ Area of Focus: Artificial Intelligence
 Emphasis in Mathematics and Sciences
 
 ###### Relevant Coursework:
-CS 111 - Introduction to Computer Science I: Java (A) 
+Introduction to Computer Science I: Java (A) 
 
-CS 112 - Introduction to Computer Science II: Java (A)
+Introduction to Computer Science II: Java (A)
 
-CS 113 - Basic Data Structures and Algorithms (A)
+Basic Data Structures and Algorithms (A)
 
-Mathematics 270 - Linear Algebra (A)
+Linear Algebra (A)
 
-CS 150 - Introduction to C++ (In progress)
+Statistics (A)
+
+Introduction to C++ (In progress)
+
+Applied Linear Algebra (In progress)
+
+Introduction to Probability (In progress)
 
 ## Skills
 **Primary Language**: Java
