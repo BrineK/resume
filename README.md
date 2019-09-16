@@ -1,21 +1,30 @@
 # About BrineK :
 
 ## Education
-**MiraCosta College** AA, Liberal Arts - December 2019 (Expected)
+
+**University of California, San Diego** BS, Math-Applied Science - June 2021 (Expected)
+
+Area of Focus: Artificial Intelligence
+
+**MiraCosta College** AA, Liberal Arts - December 2019
 
 Emphasis in Mathematics and Sciences
 
 ###### Relevant Coursework:
-CS 111 - Introduction to Computer Science I: Java 
+CS 111 - Introduction to Computer Science I: Java (A) 
 
-CS 112 - Introduction to Computer Science II: Java
+CS 112 - Introduction to Computer Science II: Java (A)
 
-CS 113 - Basic Data Structures and Algorithms (in progress)
+CS 113 - Basic Data Structures and Algorithms (A)
 
-Mathematics 270 - Linear Algebra (in progress)
+Mathematics 270 - Linear Algebra (A)
+
+CS 150 - Introduction to C++ (In progress)
 
 ## Skills
 **Primary Language**: Java
+
+**Secondary Language**: C++
 
 **Operating Systems**: OS X, Windows
 
@@ -33,4 +42,4 @@ equation techniques.
 **Your Project**: What do you have for me?
 
 ## Honors and Awards:
-  President's List, MiraCosta College,  December 2018
+  President's List, MiraCosta College,  December 2018, June 2019
