@@ -23,6 +23,10 @@ Statistics
 
 Introduction to C++ 
 
+Modeling and Data Analysis
+
+AI Algorithms
+
 Applied Linear Algebra (In progress)
 
 Introduction to Probability
@@ -49,4 +53,5 @@ equation techniques.
 
 ## Honors and Awards:
   President's List, MiraCosta College:  December 2018, June 2019
+  
   Provost Honors, UCSD, March 2020.
