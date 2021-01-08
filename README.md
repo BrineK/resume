@@ -4,28 +4,28 @@
 
 **University of California, San Diego** BS, Math-Applied Science - June 2021 (Expected)
 
-Area of Focus: Artificial Intelligence
+Area of Focus: Decision Making
 
 **MiraCosta College** AA, Liberal Arts - December 2019
 
 Emphasis in Mathematics and Sciences
 
 ###### Relevant Coursework:
-Introduction to Computer Science I: Java (A) 
+Introduction to Computer Science I: Java
 
-Introduction to Computer Science II: Java (A)
+Introduction to Computer Science II: Java 
 
-Basic Data Structures and Algorithms (A)
+Basic Data Structures and Algorithms 
 
-Linear Algebra (A)
+Linear Algebra 
 
-Statistics (A)
+Statistics 
 
-Introduction to C++ (In progress)
+Introduction to C++ 
 
 Applied Linear Algebra (In progress)
 
-Introduction to Probability (In progress)
+Introduction to Probability
 
 ## Skills
 **Primary Language**: Java
