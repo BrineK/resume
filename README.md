@@ -2,7 +2,7 @@
 
 ## Education
 
-**University of California, San Diego** BS, Math-Applied Science - June 2021 (Expected)
+**University of California, San Diego** BS, Mathematics, March 2022
 
 Area of Focus: Decision Making
 
@@ -23,13 +23,17 @@ Statistics
 
 Introduction to C++ 
 
+Intermediate C++
+
 Modeling and Data Analysis
 
 AI Algorithms
 
-Applied Linear Algebra (In progress)
+Applied Linear Algebra 
 
 Introduction to Probability
+
+
 
 ## Skills
 **Primary Language**: Java
