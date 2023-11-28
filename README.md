@@ -14,7 +14,7 @@ Area of Focus: Decision Making
 
 Emphasis in Mathematics and Sciences
 
-###### Relevant Coursework:
+### Relevant Coursework:
 Introduction to Computer Science I: Java
 
 Introduction to Computer Science II: Java 
