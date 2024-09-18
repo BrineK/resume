@@ -64,8 +64,3 @@ equation techniques.
 **Parser** : Python program to visualize the parsing process as a tree, using keywords.
 
 **Your Project**: What do you have for me?
-
-## Honors and Awards:
-  President's List, MiraCosta College:  December 2018, June 2019
-  
-  Provost Honors, UCSD, March 2020.
